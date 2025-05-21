@@ -3,7 +3,7 @@ services:
     name: n8n
     env: docker
     plan: free
-    repo: https://github.com/USERNAME-KAU/n8n
+    repo: https://github.com/whwgywgr/n8n
     region: singapore
     branch: master
     dockerfilePath: ./docker/images/n8n/Dockerfile
